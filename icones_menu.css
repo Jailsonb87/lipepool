@@ -1,0 +1,24 @@
+
+        .botao_acesso {
+          width: 100%;
+          background-color: #292c2f;
+          overflow: auto;
+          padding:4px 0;
+        }
+
+        .botao_acesso a {
+          float: left;
+          padding: 8px;
+          color: white;
+          text-decoration: none;
+          font-size: 17px;
+        }
+
+        .botao_acesso a:hover {
+          background-color: #000;
+          border-radius: 5px;
+        }
+         .botao_acesso a.user:hover {
+          background-color: #292c2f;
+          
+        }
